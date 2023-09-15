@@ -3,7 +3,7 @@ Final project of Turing College Data Analytics Course
 
 - [HR analytics project: Boosting Productivity and Retention - Google slides 📽️](https://docs.google.com/presentation/d/1MAwov4GHuXXA4bo_LEeeOxdNBbHmQRXg8jgyhP5wXY0/edit?usp=sharing)
 
-- [HR analytics project: Boosting Productivity and Retention - PDF report 📃](https://drive.google.com/file/d/11HyaUZHZzP_BwkpiTZRvnhXv0xtcvVYQ/view?usp=sharing)
+- [HR analytics project: Boosting Productivity and Retention - PDF report 📃](https://drive.google.com/file/d/1cYeau4e9Q4Hn0CmTpUHjxwT5QY7WXmNg/view?usp=sharing)
 
 - [SmartEye HR Analytics dashboard 🔍](https://lookerstudio.google.com/s/tVIFazPWcqA)
 
