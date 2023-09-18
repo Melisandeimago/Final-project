@@ -1,4 +1,4 @@
-# Final project
+# HR analytics project: Boosting Productivity and Retention
 Final project of Turing College Data Analytics Course
 
 - [HR analytics project: Boosting Productivity and Retention - Google slides 📽️](https://docs.google.com/presentation/d/1MAwov4GHuXXA4bo_LEeeOxdNBbHmQRXg8jgyhP5wXY0/edit?usp=sharing)
